@@ -1,0 +1,15 @@
+html, body
+{
+    height: 100%;
+    margin: 0;
+}
+
+body
+{
+background-image: linear-gradient(to right top,rgb(47, 120, 255) rgba(47, 120, 255, 0.856) rgba(47, 120, 255, 0.692) rgba(47, 120, 255, 0.548) rgba(47, 120, 255, 0.377) rgba(47, 120, 255, 0.24) );
+}
+
+.h1
+{
+	color: white !important;
+}
